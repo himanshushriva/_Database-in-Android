@@ -21,3 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "Database In Android"
 include(":app")
+include(":mvvm_demo")
+include(":randomquote")
+include(":roomdatabase")
